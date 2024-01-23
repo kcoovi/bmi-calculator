@@ -26,7 +26,7 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 
 ## Prerequisites for Linux and Windows
 
-1. Ensure you have Python and git installed on your system.
+1. Ensure you have Python and Git installed on your system.
 
    - [Python](https://www.python.org/downloads/) & [Git](https://git-scm.com/download/win) for Windows.
 
