@@ -64,7 +64,7 @@ cd bmi-calculator
 
 ```
 
-### Windows Comand Prompt:
+### Windows Command Prompt:
 
 ```bash
 CD bmi-calculator
