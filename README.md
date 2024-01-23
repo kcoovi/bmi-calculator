@@ -3,13 +3,12 @@
 - [Description](#description)
 - [Author](#author)
 - [Features](#features)
-- [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
 - [How to Run Locally](#how-to-run-locally)
   - [Prerequisites](#prerequisites-for-linux-and-windows)
   - [For Linux](#for-linux)
   - [For Windows](#for-windows)
-- [License](#license)
+- [How to Use](#how-to-use)
 
 ## Description
 
@@ -17,21 +16,14 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 
 ## Author
 
-[Kevin Coovi](https://www.linkedin.com/in/kevin-coovi/) - [GitHub](https://github.com/kcoovi)
+- [Kevin Coovi](https://www.linkedin.com/in/kevin-coovi/)
+- [GitHub](https://github.com/kcoovi)
 
 ## Features
 
 - Calculate BMI based on user input (height and weight).
 - Support for both metric (kg/cm) and imperial (lb/in) measurement systems.
 - Display BMI categories for quick interpretation.
-
-## How to Use
-
-1. Open the [BMI Calculator](#) in your web browser.
-2. Select your preferred measurement system (Metric or Imperial).
-3. Enter your height and weight in the provided fields.
-4. Click the "Calculate BMI" button to see your BMI result and category.
-5. Change the measurement system to switch between units.
 
 ## Prerequisite for Linux and Windows
 
@@ -85,3 +77,11 @@ python3 run.py
 ```
 
 4. Open your browser at http://127.0.0.1:5000/ to use the calculator.
+
+## How to Use
+
+1. Open the [BMI Calculator](http://127.0.0.1:5000/) in your web browser.
+2. Select your preferred measurement system (Metric or Imperial).
+3. Enter your height and weight in the provided fields.
+4. Click the "Calculate BMI" button to see your BMI result and category.
+5. Change the measurement system to switch between units.
