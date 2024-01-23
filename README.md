@@ -84,4 +84,4 @@ python3 run.py
 
 ```
 
-4. Open your browser at http://127.0.0.1:5000/ to play
+4. Open your browser at http://127.0.0.1:5000/ to use the calculator.
