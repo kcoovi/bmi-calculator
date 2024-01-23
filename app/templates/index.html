@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+    <title>BMI Calculator</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>BMI Calculator</h1>
+      <label for="measurementSystem">Measurement System:</label>
+      <select id="measurementSystem" onchange="updatePlaceholders()">
+        <option value="metric">Metric (kg/cm)</option>
+        <option value="imperial">Imperial (lb/in)</option>
+      </select>
+
+      <label for="height">Height:</label>
+      <input
+        type="number"
+        id="height"
+        placeholder="Enter your height in centimeters"
+        required
+      />
+
+      <label for="weight">Weight:</label>
+      <input
+        type="number"
+        id="weight"
+        placeholder="Enter your weight in kilograms"
+        required
+      />
+
+      <button onclick="calculateBMI()">Calculate BMI</button>
+
+      <div id="result" class="result"></div>
+
+      <div class="description">
+        <h2>BMI Categories</h2>
+        <p class="underweight">
+          <strong>Underweight:</strong> BMI less than 18.5
+        </p>
+        <p class="normal-weight">
+          <strong>Normal weight:</strong> BMI 18.5 - 24.9
+        </p>
+        <p class="overweight"><strong>Overweight:</strong> BMI 25 - 29.9</p>
+        <p class="obese"><strong>Obese:</strong> BMI 30 or greater</p>
+      </div>
+
+      <div class="subtitle">
+        By
+        <a href="https://www.linkedin.com/in/kevin-coovi/" target="_blank"
+          >Kevin Coovi</a
+        >
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>
