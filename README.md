@@ -4,8 +4,8 @@
 - [Author](#author)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites-for-linux-and-windows)
 - [How to Run Locally](#how-to-run-locally)
-  - [Prerequisites](#prerequisites-for-linux-and-windows)
   - [For Linux](#for-linux)
   - [For Windows](#for-windows)
 - [How to Use](#how-to-use)
@@ -16,8 +16,7 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 
 ## Author
 
-- [Kevin Coovi](https://www.linkedin.com/in/kevin-coovi/)
-- [GitHub](https://github.com/kcoovi)
+- [Kevin Coovi](https://www.linkedin.com/in/kevin-coovi/) & [GitHub](https://github.com/kcoovi)
 
 ## Features
 
