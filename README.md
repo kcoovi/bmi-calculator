@@ -24,7 +24,7 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 - Support for both metric (kg/cm) and imperial (lb/in) measurement systems.
 - Display BMI categories for quick interpretation.
 
-## Prerequisite for Linux and Windows
+## Prerequisites for Linux and Windows
 
 1. Ensure you have Python and git installed on your system.
 
