@@ -12,7 +12,7 @@
 
 ## Description
 
-This project provides a user-friendly BMI calculator implemented in HTML, CSS, and JavaScript that allows users to input their height and weight, choose between the metric and imperial measurement systems, and instantly get their BMI along with a corresponding category (Underweight, Normal weight, Overweight, or Obese).
+This project provides a user-friendly BMI calculator implemented in HTML, CSS, JavaScript and Python that allows users to input their height and weight, choose between the metric and imperial measurement systems, and instantly get their BMI along with a corresponding category (Underweight, Normal weight, Overweight, or Obese).
 
 ## Author
 
