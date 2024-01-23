@@ -33,9 +33,10 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 
 2. Install Flask **if not** already installed
 
-   ```bash
-   pip install Flask
-   ```
+```bash
+pip install Flask
+
+```
 
 ## Technologies Used
 
@@ -47,7 +48,7 @@ This project provides a user-friendly BMI calculator implemented in HTML, CSS, a
 
 ## How to Run Locally
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine by opening the Terminal on Linux or Command prompt on Windows.
 
 ```bash
 git clone https://github.com/kcoovi/bmi-calculator.git
@@ -56,8 +57,18 @@ git clone https://github.com/kcoovi/bmi-calculator.git
 
 2. Navigate to the project directory.
 
+### Linux Terminal:
+
 ```bash
 cd bmi-calculator
+
+```
+
+### Windows Comand Prompt:
+
+```bash
+CD bmi-calculator
+
 ```
 
 3. Run the application using a local server.
@@ -72,7 +83,7 @@ python3 run.py
 ### For Windows:
 
 ```bash
-python3 run.py
+python run.py
 
 ```
 
