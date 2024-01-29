@@ -59,14 +59,14 @@ git clone https://github.com/kcoovi/bmi-calculator.git
 ### Linux Terminal:
 
 ```bash
-cd bmi-calculator
+cd bmi-calculator/Calculator
 
 ```
 
 ### Windows Command Prompt:
 
 ```bash
-CD bmi-calculator
+CD bmi-calculator/Calculator
 
 ```
 
@@ -90,7 +90,7 @@ python run.py
 
 ## How to Use
 
-1. Open the [BMI Calculator](http://127.0.0.1:5000/) in your web browser.
+1. Open the [BMI Calculator](https://kcoovi.github.io/bmi-calculator/) in your web browser.
 2. Select your preferred measurement system (Metric or Imperial).
 3. Enter your height and weight in the provided fields.
 4. Click the "Calculate BMI" button to see your BMI result and category.
